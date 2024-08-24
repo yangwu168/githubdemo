@@ -14,10 +14,10 @@ import org.openqa.selenium.support.ui.Select;
 public class HiWebDriver {
 
 	public static void main(String[] args) {
-        System.out.println("hello class");
-        System.out.println("hello class");
-        System.out.println("hello class");
-        System.out.println("hello class");
+        System.out.println("OMG GITHUB");
+        System.out.println("OMG GITHUB");
+        System.out.println("OMG GITHUB");
+        System.out.println("OMG GITHUB");
         
         try {
             WebDriver driver =  new ChromeDriver();
